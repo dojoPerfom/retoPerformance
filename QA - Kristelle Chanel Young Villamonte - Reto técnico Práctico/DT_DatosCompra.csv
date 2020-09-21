@@ -1,0 +1,2 @@
+id_product,email,gender,name,lastname,password,day,month,year,adress,city,id_city,code,id_country,phone
+1,02reto@example.com,1,Max,Perrie,12345,5,5,1990,Miami Beach,Florida,1,00000,21,123456788
