@@ -1,0 +1,4 @@
+V_STR_email,V_STR_name,V_STR_lastname,V_STR_password,V_STR_address,V_STR_city,V_STR_state,V_STR_zip,V_STR_phone,V_STR_addressalias
+usr01@pb.co,usr01,usr01,12345,MED,MED,Alabama,00000,3000010101,MED
+usr02@pb.co,usr02,usr02,12346,BOG,BOG,Alaska,00001,3000010102,BOG
+usr03@pb.co,usr03,usr03,12347,CAL,CAL,Arizona,00002,3000010103,CAL
