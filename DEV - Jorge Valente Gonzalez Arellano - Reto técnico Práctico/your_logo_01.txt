@@ -1,0 +1,3 @@
+1|Henry|Ford|dojo01@mail.com|qpalzm1029|01|01|2001|Calle1, Conocida1, etc1|Miami|9|12345|19876543210|domicilio1
+1|Abraham|Lincoln|dojo02@mail.com|wiskxm3948|02|02|2002|Calle2, Conocida2, etc2|Dallas|43|65432|1357924680|domicilio2
+2|Rosario|Tijeras|dojo03@mail.com|eudjcn4857|03|03|2003|Calle3, Conocida3, etc3|Los Angeles|5|24680|9753124680|domicilio3dojo
