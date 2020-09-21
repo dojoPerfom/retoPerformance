@@ -1,0 +1,2 @@
+firstname,lastname,password,firstname,lastname,address1,city,id_state,postcode,phone,alias
+juan,perez,12345678,juan,perez,avenue 50,New York,1,50500,507123456,micompra
